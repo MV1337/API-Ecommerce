@@ -30,7 +30,7 @@ Esta API está será consumida por um projeto que ainda está em desenvolvimento
 * Cloudflare (Certificado SSL).
 * Stripe (Gateway de pagamento).
 * Nginx (Proxy Reverso)
-* Gmail
+* Gmail (Envio de email para confirmações)
 
  ## Links
   em breve... 
