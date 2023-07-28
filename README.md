@@ -33,9 +33,10 @@ Esta API está será consumida por um projeto que ainda está em desenvolvimento
 * Gmail (Envio de email para confirmações)
 
  ## Links
-  em breve... 
+  https://lm-store.vercel.app/ 
   
   ## Autores
 
-  * **Matheus Vinicius** 
+  * **Matheus Vinicius** <br/>
+ Lucas Silva - https://github.com/Lucassocorrosilva7
   
