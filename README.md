@@ -34,6 +34,7 @@ Esta API está será consumida por um projeto que ainda está em desenvolvimento
 
  ## Links
   https://lm-store.vercel.app/ 
+  Vídeo mostrando o funcionamento do projeto - https://www.youtube.com/watch?v=2hu-YFdrmi4&ab_channel=LMTech
   
   ## Autores
 
